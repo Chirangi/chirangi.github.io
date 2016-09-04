@@ -1,2 +1,2 @@
-# chirangi.github.io
+# chirangi.com
 Personal Website
